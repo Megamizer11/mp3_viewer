@@ -1,146 +1,263 @@
-[
-	{
-		"File": "music\-140.mp3",
-		"Title": "-140",
-		"Artist": "�������",
-		"Album": "�������",
-		"Year": "1999",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\A Place For My Head.mp3",
-		"Title": "A Place For My Head",
-		"Artist": "Linkin Park",
-		"Album": "Hybrid Theory",
-		"Year": "2000",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Already Over.mp3",
-		"Title": "Already Over",
-		"Artist": "Mike Shinoda",
-		"Album": "",
-		"Year": "",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Am I Good Enough.mp3",
-		"Title": "Am I Good Enough",
-		"Artist": "The Coils",
-		"Album": "",
-		"Year": "",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Another One Bites The Dust.mp3",
-		"Title": "Another One Bites The Dust",
-		"Artist": "Queen",
-		"Album": "",
-		"Year": "2011",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Anything, Anything.mp3",
-		"Title": "Anything, Anything",
-		"Artist": "Grey Daze",
-		"Album": "The Phoenix",
-		"Year": "",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Battle Cry.mp3",
-		"Title": "Battle Cry",
-		"Artist": "Imagine Dragons",
-		"Album": "Smoke + Mirrors",
-		"Year": "2015",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Battle Symphony.mp3",
-		"Title": "Battle Symphony",
-		"Artist": "Linkin Park",
-		"Album": "One More Light",
-		"Year": "",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Black Hole Sun.mp3",
-		"Title": "Black Hole Sun",
-		"Artist": "Soundgarden",
-		"Album": "Superunknown",
-		"Year": "2007",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Blackout.mp3",
-		"Title": "Blackout",
-		"Artist": "Muse",
-		"Album": "Absolution",
-		"Year": "2003",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Bohemian Rhapsody.mp3",
-		"Title": "Bohemian Rhapsody",
-		"Artist": "Queen",
-		"Album": "A Night At The Opera",
-		"Year": "2018",
-		"Comment": "",
-		"Genre": "Soundtrack",
-	},
-	{
-		"File": "music\Bones.mp3",
-		"Title": "Bones",
-		"Artist": "Imagine Dragons",
-		"Album": "Mercury - Act 2",
-		"Year": "2022",
-		"Comment": "",
-		"Genre": "Alternative",
-	},
-	{
-		"File": "music\Bring Me To Life.mp3",
-		"Title": "Bring Me To Life",
-		"Artist": "Evanescence",
-		"Album": "Fallen",
-		"Year": "2003",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Burn It Down.mp3",
-		"Title": "Burn It Down",
-		"Artist": "Linkin Park",
-		"Album": "Living Things",
-		"Year": "",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Duncan.mp3",
-		"Title": "Duncan",
-		"Artist": "U-TOPIA",
-		"Album": "None (Single)",
-		"Year": "",
-		"Comment": "",
-		"Genre": "Unknown",
-	},
-	{
-		"File": "music\Zombie.mp3",
-		"Title": "Zombie",
-		"Artist": "The Cranberries",
-		"Album": "Girls And Guitars",
-		"Year": "1995",
-		"Comment": "",
-		"Genre": "Unknown",
-	}
-]
+AC/DC - Back In Black
+AC/DC - Highway To Hell
+AC/DC - Thunderstruck
+Aerosmith - Dream On
+Animal ДжаZ - Три полоски
+Archive - Bullets
+Audioslave - Like A Stone
+Audioslave - Shape Of Things To Come
+Between August And December - That's Our Madhouse
+Blind Channel - Dark Side
+Blink-182 - First Date
+Blur - Song 2
+Bon Jovi - It's My Life
+Bon Jovi - Livin' On A Prayer
+Bon Jovi - You Give Love A Bad Name
+Bullet For My Valentine - Tears Don't Fall
+DAGames - I Am The Purple Guy
+Dead By Sunrise - Condemned
+Dead By Sunrise - Let Down
+Dead By Sunrise - Too Late
+Deep Purple - Smoke On The Water
+Default City - As We Fall
+Default City - Take So Much
+Evanescence - Bring Me To Life
+Exit Eden - Total Eclipse Of The Heart
+Foo Fighters - Everlong
+Foo Fighters - Learn to Fly
+Franky - Hysteria
+Franky - Just Run Away
+Freddie Mercury - Time Waits For No One
+Golden Earring - Going To The Run
+Greta Van Fleet - Highway Tune
+Grey Daze - Anything, Anything
+Grey Daze - Just Like Heroin
+Grey Daze - Monster You Adore
+Grey Daze - Sickness
+Grey Daze - What's In The Eye
+Imagine Dragons - Battle Cry
+Imagine Dragons - Bones
+Imagine Dragons - Natural
+Imagine Dragons - Radioactive
+Imagine Dragons - Warriors
+James Taylor - Our Town
+Kiss - I Was Made For Lovin' You
+Linkin Park - A Place For My Head
+Linkin Park - Battle Symphony
+Linkin Park - Bleed It Out
+Linkin Park - Breaking The Habit
+Linkin Park - Burn It Down
+Linkin Park - By Myself
+Linkin Park - Castle Of Glass
+Linkin Park - Crawling
+Linkin Park - Don't Stay
+Linkin Park - Easier To Run
+Linkin Park - Esaul
+Linkin Park - Faint
+Linkin Park - Figure.09
+Linkin Park - Final Masquerade
+Linkin Park - Final Masquerade (Acoustic)
+Linkin Park - Forgotten
+Linkin Park - Friendly Fire
+Linkin Park - From The Inside
+Linkin Park - Given Up
+Linkin Park - Good Goodbye
+Linkin Park - Guilty All The Same
+Linkin Park - Halfway Right
+Linkin Park - Hands Held High
+Linkin Park - Heavy
+Linkin Park - Heavy Is The Crown
+Linkin Park - Hit The Floor
+Linkin Park - In My Remains
+Linkin Park - In The End
+Linkin Park - Leave Out All The Rest
+Linkin Park - Lies Greed Misery
+Linkin Park - Lost
+Linkin Park - Lost In The Echo
+Linkin Park - Lying From You
+Linkin Park - Mark The Graves
+Linkin Park - My December
+Linkin Park - New Divide
+Linkin Park - No More Sorrow
+Linkin Park - Nobody Can Save Me
+Linkin Park - Nobody's Listening
+Linkin Park - Numb
+Linkin Park - One More Light
+Linkin Park - One Step Closer
+Linkin Park - One Step Closer (Live)
+Linkin Park - Papercut
+Linkin Park - Points Of Authority
+Linkin Park - Powerless
+Linkin Park - Pushing Me Away
+Linkin Park - Rebellion
+Linkin Park - Roads Untraveled
+Linkin Park - Runaway
+Linkin Park - Shadow Of The Day
+Linkin Park - Somewhere I Belong
+Linkin Park - Sorry For Now
+Linkin Park - Talking To Myself
+Linkin Park - The Emptiness Machine
+Linkin Park - Until It's Gone
+Linkin Park - Valentine's Day
+Linkin Park - Waiting For The End
+Linkin Park - With You
+Mark Morton - Cross Off
+Matthew Heath - I'll Burn
+Memories - Пустота
+Metallica - Enter Sandman
+Metallica - Master Of Puppets
+Metallica - Nothing Else Matters
+Mike Shinoda - Already Over
+Mike Shinoda - Crossing A Line
+Mike Shinoda - Over Again
+Muse - Blackout
+Muse - Butterflies & Hurricanes
+Muse - Compliance
+Muse - Cryogen
+Muse - Hysteria
+Muse - Invincible
+Muse - Isolated System
+Muse - Kill Or Be Killed
+Muse - Knights of Cydonia
+Muse - MK Ultra
+Muse - Map Of The Problematique
+Muse - New Born
+Muse - Plug In Baby
+Muse - Psycho
+Muse - Starlight
+Muse - Stockholm Syndrome
+Muse - Supermassive Black Hole
+Muse - Thought Contagion
+Muse - Time Is Running Out
+Muse - Unravelling
+Muse - Verona
+Muse - We Are Fucking Fucked
+Muse - Will Of The People
+Muse - Won't Stand Down
+Muse - You Make Me Feel Like It's Halloween
+Nautilus Pompilius - Чёрные Птицы
+Nirvana - Come As You Are
+Nirvana - Heart-Shaped Box
+Nirvana - In Bloom
+Nirvana - Lithium
+Nirvana - Rape Me
+Nirvana - Smells Like Teen Spirit
+Nirvana - Something In The Way
+Nirvana - Stay Away
+Oasis - Stop Crying Your Heart Out
+Queen - Another One Bites The Dust
+Queen - Bohemian Rhapsody
+Queen - Crazy Little Thing Called Love
+Queen - Don't Stop Me Now
+Queen - Dragon Attack
+Queen - Hammer To Fall
+Queen - I Want To Break Free
+Queen - Keep Yourself Alive
+Queen - Killer Queen
+Queen - Love Of My Life
+Queen - Mother Love
+Queen - Play The Game
+Queen - Radio Ga Ga
+Queen - Somebody To Love
+Queen - The Show Must Go On
+Queen - Under Pressure
+Queen - We Are The Champions
+Queen - We Will Rock You
+Queen - Who Wants To Live Forever
+Radiohead - Creep
+Rammstein - Du Hast
+Red Hot Chili Peppers - Californication
+Red Hot Chili Peppers - Give It Away
+Rock Privet - Районы - Кварталы
+Sabaton - Primo Victoria
+Sabaton - The Attack Of The Dead Men
+Scorpions - We Were Born To Fly
+Shannon Jae Prior - The Usual
+Skillet - Comatose
+Skillet - Feel Invincible
+Skillet - Hero
+Skillet - Monster
+Skillet - Not Gonna Die
+Skillet - Psycho In My Head
+Slipknot - Duality
+Slipknot - Nero Forte
+Slipknot - Psychosocial
+Slipknot - Snuff
+Slipknot - The Devil In I
+Slipknot - Vermilion, Pt. 2
+Smilin'man - Let Me Show
+Smilin'man - Roar
+Sollar - Cheat Code
+Soundgarden - Black Hole Sun
+Soundgarden - The Day I Tried To Live
+Staind - For You
+Staind - It's Been Awhile
+Staind - So Far Away
+Static-X - New Pain
+Static-X - The Only
+Sum 41 - Over My Head (Better Off Dead)
+Sum 41 - Pieces
+Sum 41 - Still Waiting
+Sum 41 - The Hell Song
+Sum 41 - War
+System Оf А Down - Chop Suey!
+The Coils - Am I Good Enough
+The Cranberries - Zombie
+The Fold - Weekend Whip
+The Fold - Weekend Whip (Original)
+The White Stripes - Seven Nation Army
+U-TOPIA - Duncan
+U-TOPIA - Highway To Рай
+U-TOPIA - Whispers
+U-TOPIA - Секреты
+Александр Пушной - Группа Крови
+Александр Пушной - Кукушка (Cover)
+Александр Пушной - От Винта! (Cover)
+Алиса - Полёт
+АнимациЯ - Родина
+Би-2 - Мой Рок-н-ролл
+Би-2 - Полковнику никто не пишет
+Би-2 - Серебро
+Би-2 - Скользкие Улицы
+Ваня Дмитриенко - Силуэт
+Звери - Всё, Что Тебя Касается
+Звери - До Cкорой Встречи!
+Звери - Маленькая «с»
+Звери - Напитки покрепче
+Звери - Рома, Извини
+Земфира - -140
+Земфира - Искала
+Земфира - Шалфей
+Кладбище Сердец - Выпускной
+Кладбище Сердец - Серп и Молот
+Кладбище сердец - Прости Нас, Горшок
+КняZz - Пиво-Пиво-Пиво
+Король и Шут - Кукла Колдуна
+Король и Шут - Лесник
+Король и Шут - Мёртвый Анархист
+Король и Шут - Прыгну Со Скалы
+Король и Шут - Северный Флот
+Мумий Тролль - Владивосток 2000
+Неизвестный исполнитель (теги пусты) - Без названия
+Неизвестный исполнитель (теги пусты) - Без названия
+Неизвестный исполнитель (теги пусты) - Без названия
+Неизвестный исполнитель (теги пусты) - Без названия
+Неизвестный исполнитель (теги пусты) - Без названия
+Неизвестный исполнитель (теги пусты) - Без названия
+Неизвестный исполнитель (теги пусты) - Без названия
+Пилот - Выживший
+Пилот - Рок
+Пилот - Сибирь
+Сплин - Моё Сердце
+Сплин - Новые Люди
+Стася Милославская - Наша Музыка
+Таймсквер - Dorian
+Таймсквер - В Темноте
+Таймсквер - Время Первых
+Таймсквер - Дыши
+Таймсквер - Жесть
+Таймсквер - Мой Серый Город
+Таймсквер - Облако
+Таймсквер - Реквием
+Таймсквер - Эхо
+﻿Survivor - Eye Of The Tiger
